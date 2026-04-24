@@ -64,7 +64,7 @@ If uv is already installed, run uv self update to get the latest version.
 ### Clone & Configure
 
 ```bash
-git clone https://github.com/Alishahryar1/free-claude-code.git
+git clone https://github.com/HamzaaAkmal/Claude-Code-for-Dummies.git
 cd free-claude-code
 cp .env.example .env
 ```
